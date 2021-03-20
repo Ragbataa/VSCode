@@ -1,4 +1,3 @@
-import os
-print("first python\n")
-num=input("enter your number=")
-print("your number is "+num)
+print("First Python Code")
+num=input("Enter any number=")
+print("yout number is ="+num)
